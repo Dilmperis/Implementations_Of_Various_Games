@@ -6,8 +6,11 @@ Welcome to the Number Guessing Game! This simple yet fun Python game challenges 
 - Difficulty Levels: Choose between 'Easy' and 'Hard' modes.
     Easy Mode: 10 attempts to guess the number.
     Hard Mode: 5 attempts to guess the number.
+  
 -Input Validation: Ensures players enter valid inputs for difficulty and guesses.
+
 -Feedback Mechanism: Provides feedback on whether the guess is too high or too low.
+
 -Replay Option: Allows players to play multiple rounds without restarting the program.
 
 ## How to Play
