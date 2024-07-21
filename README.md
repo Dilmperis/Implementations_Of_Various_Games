@@ -3,15 +3,12 @@
 Welcome to the Number Guessing Game! This simple yet fun Python game challenges players to guess a randomly generated number within a specified range and with a limited number of attempts based on the chosen difficulty level.
 
 ## Features
-- Difficulty Levels: Choose between 'Easy' and 'Hard' modes.
-    Easy Mode: 10 attempts to guess the number.
-    Hard Mode: 5 attempts to guess the number.
-  
--Input Validation: Ensures players enter valid inputs for difficulty and guesses.
-
--Feedback Mechanism: Provides feedback on whether the guess is too high or too low.
-
--Replay Option: Allows players to play multiple rounds without restarting the program.
+- **Difficulty Levels**: Choose between 'Easy' and 'Hard' modes.
+  - Easy Mode: 10 attempts to guess the number.
+  - Hard Mode: 5 attempts to guess the number.
+- **Input Validation**: Ensures players enter valid inputs for difficulty and guesses.
+- **Feedback Mechanism**: Provides feedback on whether the guess is too high or too low.
+- **Replay Option**: Allows players to play multiple rounds without restarting the program.
 
 ## How to Play
 1. Start the Game: The game welcomes you and prompts you to choose a difficulty level.
