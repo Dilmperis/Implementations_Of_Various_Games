@@ -98,5 +98,4 @@ while keep_playing == "yes":
 
 if keep_playing == "no":
     print('\nIt was nice to play with you! Goodbye')
-
-
+    
