@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Game 1: Number Guessing Game
 
 Welcome to the Number Guessing Game! This simple yet fun Python game challenges players to guess a randomly generated number within a specified range and with a limited number of attempts based on the chosen difficulty level.
 
