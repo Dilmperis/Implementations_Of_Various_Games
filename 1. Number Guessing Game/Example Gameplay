@@ -1,0 +1,83 @@
+Example Gameplay
+Below is an example of how the game script runs:
+========================================================================================
+
+Welcome to the Number Guessing Game
+I'm thinking of a number between 1 and 100. Guess it.
+
+Choose a level of difficulty.
+"Easy" or "Hard"?: Easily
+Wrong spelling. Type one of ['easy', 'hard']: Easy
+
+You have 10 attempts to guess the number
+Make a guess: 50
+Too low
+Guess again
+
+You have 9 attempts to guess the number
+Make a guess: 75
+Too high
+Guess again
+
+You have 8 attempts to guess the number
+Make a guess: 62
+Too high
+Guess again
+
+You have 7 attempts to guess the number
+Make a guess: 56
+Too high
+Guess again
+
+You have 6 attempts to guess the number
+Make a guess: 53
+Too high
+Guess again
+
+You have 5 attempts to guess the number
+Make a guess: 52
+Congrats! You guessed correctly the number 52
+
+End of the game. You are a winner
+-----------------------------------
+
+Do you want to play again? Yes or No? Ok
+Wrong spelling. Type one of ['yes', 'no']: yeah
+Wrong spelling. Type one of ['yes', 'no']: yes 
+
+Ok, we will start again. Choose a level of difficulty.
+"Easy" or "Hard"?: Let's go hard
+Wrong spelling. Type one of ['easy', 'hard']: HARD
+
+You have 5 attempts to guess the number
+Make a guess: 50
+Too low
+Guess again
+
+You have 4 attempts to guess the number
+Make a guess: 80
+Too high
+Guess again
+
+You have 3 attempts to guess the number
+Make a guess: 63
+Too low
+Guess again
+
+You have 2 attempts to guess the number
+Make a guess: 72
+Too low
+Guess again
+
+You have 1 attempts to guess the number
+Make a guess: 76
+Too low
+Guess again
+
+End of the game. Unfortunately you lost... The number to guess was 77
+-----------------------------------
+
+Do you want to play again? Yes or No? Nah 
+Wrong spelling. Type one of ['yes', 'no']: NO
+
+It was nice to play with you! Goodbye
