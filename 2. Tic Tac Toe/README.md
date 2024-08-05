@@ -18,5 +18,5 @@ This is a simple graphical Tic Tac Toe game implemented using Python's Tkinter l
 
 1. **Clone the repository:**
 
-   git clone https://github.com/Dilmperis/Implementations_Of_Various_Games/2. Tic Tac Toe.git
+   git clone https://github.com/Dilmperis/Implementations_Of_Various_Games.git
    
