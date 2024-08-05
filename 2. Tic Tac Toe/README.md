@@ -2,6 +2,8 @@
 
 This is a simple graphical Tic Tac Toe game implemented using Python's Tkinter library. The game allows two players to play against each other on the same device, with the game board displayed in a GUI window.
 
+![image](https://github.com/user-attachments/assets/32417a43-feff-45b6-a741-3168fe670053)
+
 ## Features
 
 - **Two-player game:** The game supports two players taking turns. Player 1 uses 'X' and Player 2 uses 'O'.
